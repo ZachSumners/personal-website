@@ -1,21 +1,16 @@
 # Introduction
+Motivated by my youth under the rural Alberta, Canada skies, broadly, I am passionate about the search for information in nontrivial astrophysics observations. I recieved my undergraduate degree in Honours Astrophysics from the University of Calgary, and am now a graduate student at McGill University. Under the direction of [Dr. Daryl Haggard](https://www.dhaggard.physics.mcgill.ca), I am keenly interested in the cross section between astrophysics and machine learning, investigating the application of diffusion models applied to James Webb Space Telescope observations of Sagittarius A*, the black hole at the center of the Milky Way.
 
-Dr. Lisa Simpson is an accomplished astrophysicist whose passion for unraveling the mysteries of the cosmos has driven her academic journey. She earned her Bachelor's degree in Physics with honors from Celestial University, where her early fascination with astrophysics blossomed. Embarking on the pursuit of advanced knowledge, she continued her education at Stellar Institute, obtaining a Master's degree in Astrophysical Sciences with a focus on high-energy astrophysics.
+I have a diverse array of computational research and extracurricular experience spanning a wide range of subject matters. This includes large-scale computational analysis of astrophysical data from state-of-the-art instruments including the James Webb Space Telescope, Hubble Space Telescope, and Chandra X-Ray Telescope. I also have hands-on experience with ground-based optical research telescopes at the [Rothney Astrophysical Observatory](https://science.ucalgary.ca/rothney-observatory) in Calgary, Canada.
 
-Dr. Simpson's scholarly journey reached its zenith at Galactic University, where she completed her Ph.D. in Astrophysics. Her doctoral research centered on the Crab Nebula, an iconic celestial object known for its dynamic behavior. With a keen interest in both observational and theoretical aspects of astrophysics, Dr. Simpson utilized cutting-edge technology and advanced computational models to deepen our understanding of the processes at play within the Crab Nebula.
+In my time away from academia, I am an advocate for astronomy outreach and student leadership. I have participated in a variety of groups including 4H, the University of Calgary Physics and Astronomy Students Association, and was the Volunteer Coordinator at the Rothney Astrophysical Observatory for three years, enabling thousands of Calgarians to access astronomy education.
 
-Throughout her academic career, Dr. Simpson has contributed to numerous publications in reputable astrophysical journals and has presented her findings at international conferences. She is recognized for her meticulous research methodologies and her commitment to advancing our understanding of the universe. As a dedicated educator, Dr. Simpson has also mentored aspiring astrophysicists, fostering the next generation's curiosity and passion for the cosmos.
+# Extracurricular Interests
 
-Beyond the academic realm, Dr. Simpson is an avid stargazer and science communicator, regularly engaging with the public through lectures, workshops, and social media platforms. Her multifaceted approach to astrophysics encompasses both the pursuit of groundbreaking research and the dissemination of knowledge to a broader audience, embodying a commitment to bridging the gap between the mysteries of the universe and the curious minds seeking to explore them.
-
-# Other Interests
-
-- [Cooking](./cooking.md)
-- [Cycling](./cycling.md)
-- [Olympic Fishing](./fishing.md)
+- [Hiking and Nature](./hiking.md)
+- [Climbing](./climbing.md)
+- [Montreal Adventures](./adventures.md)
 
 
-# CV
-
-<!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/SWE_Resume_Template.pdf">
+![Gemini](./media/gemini.jpg "Gemini Telescope"){: style="height:400px;width:auto"}
+![RAO](./media/rao.jpg "Rothney Astrophysical Observatory"){: style="height:400px;width:auto"}

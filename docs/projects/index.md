@@ -1,6 +1,8 @@
 # Projects
 
-Here are some projects that I am working on. 
+I am passionate about the cross section between advanced computation and astrophysics to reveal nontrivial insights in large databases! You can read more about some of the projects I have worked on below.
 
-- [Python Project](./python_project/python_project.ipynb) is an amazing python project that will allow you to see my coding skills.
-- [Data Project](./data_project/index.md) is an even more amazing project where I share data that I've used.
+## Recent Examples
+ - [All Sky Camera x Machine Learning](./allsky/index.md)
+ - [Variable Star Analysis](./variables/index.md)
+
