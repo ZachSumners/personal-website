@@ -14,4 +14,4 @@ In no particular order, here are a few random pictures during my adventures.
 ![Montreal7](./media/mtl7.jpg "Montreal"){: style="height:400px;width:auto"}
 ![Montreal8](./media/mtl8.jpg "Montreal"){: style="height:400px;width:auto"}
 
-[About Me](./about/index.md){ .md-button }
+[About Me](../about/index.md){ .md-button }
