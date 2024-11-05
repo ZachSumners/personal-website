@@ -6,3 +6,5 @@ I may not be too good, but I really enjoy bouldering! I typically go every week 
 ![Climb2](./media/climb2.jpg "Bouldering"){: style="height:600px;width:auto"}
 
 Montreal has some really great climbing gyms!
+
+[About Me](./about/index.md){ .md-button }

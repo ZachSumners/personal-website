@@ -1,6 +1,6 @@
 # Montreal Adventures
 
-The vibracy and amount of things to do is one of my favorite parts about Montreal! Even in a city of millions, there are always peaceful corners tucked away, just waiting to be found!
+The vibrancy and amount of things to do is one of my favorite parts about Montreal! Even in a city of millions, there are always peaceful corners tucked away, just waiting to be found!
 
 In no particular order, here are a few random pictures during my adventures.
 
@@ -13,3 +13,5 @@ In no particular order, here are a few random pictures during my adventures.
 ![Montreal9](./media/mtl9.jpg "Montreal"){: style="height:400px;width:auto"}
 ![Montreal7](./media/mtl7.jpg "Montreal"){: style="height:400px;width:auto"}
 ![Montreal8](./media/mtl8.jpg "Montreal"){: style="height:400px;width:auto"}
+
+[About Me](./about/index.md){ .md-button }

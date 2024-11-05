@@ -4,7 +4,7 @@
 ![Coma cluster](./media/headshot.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
 My name is Zach Sumners, I am a Master's student in the Department of Physics at McGill University studying the application of machine learning on observations of Sagittarius A*. I am passionate about the search for nontrivial relationships in large datasets, and seek to employ advanced computational methods to make predictions. 
 
-This website seeks to showcase my research portfolio, extracurricular involvement, and outline some of my computational skills.
+This website showcases my research portfolio, extracurricular involvement, and outlines some of my computational skills.
 
 ## Other Pages
 
