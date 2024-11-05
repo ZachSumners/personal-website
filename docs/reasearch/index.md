@@ -5,9 +5,12 @@ With recent advances in telescope hardware, astrophysical data is being collecte
 Sagittarius A\* (Sgr A\*) at the center of the Milky Way is 100 times closer than the next nearest  supermassive  black  hole.  It  has  long  been  an  object  of  observational  interest  due  to  its comparatively weak accretion, variability in the form of flaring, and relative proximity which make it a perfect laboratory to study accretion theory and test general relativity [1]. 
 
 ![SgrA](./media/sgra.jpg "SgrA*"){: style="height:500px;width:auto"}
-[https://en.wikipedia.org/wiki/Sagittarius_A*]
+
+https://en.wikipedia.org/wiki/Sagittarius_A*
+
 ![SgrA Crowded](./media/sgra_crowded.jpg "SgrA* Crowded"){: style="height:500px;width:auto"}
-[https://en.wikipedia.org/wiki/Sagittarius_A]
+
+https://en.wikipedia.org/wiki/Sagittarius_A
 
 It has been observed for over two decades in  a variety of  electromagnetic regimes in the radio, sub-millimeter, near-infrared, far-infrared, and X-ray regions [2]. This has allowed the characterization of its spectral energy distribution (SED), a large-scale illustration of its flux as a function of wavelength. Such a distribution has generated classes of models to describe its emission and variability, improving our understanding of black hole growth, activate galactic nuclei, and extreme accretion physics [3, 4]. However, there still exist open questions about the underlying physics that drive its behavior and subsequent response at different wavelengths, so an accurate description of Sgr A*’s light profile is important [2]. Furthermore, the density of the galactic center make observations very difficult. Take the figure below of radio observations in the galactic center as an example.
 

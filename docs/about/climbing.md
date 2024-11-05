@@ -7,4 +7,4 @@ I may not be too good, but I really enjoy bouldering! I typically go every week 
 
 Montreal has some really great climbing gyms!
 
-[About Me](./about/index.md){ .md-button }
+[About Me](../about/index.md){ .md-button }

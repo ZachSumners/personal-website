@@ -33,4 +33,4 @@ Spectacular Fall colours in the Lauterbrunnen Valley. Even at the end of October
 ![Swiss2](./media/swiss2.jpg "Lauterbrunnen"){: style="height:400px;width:auto"}
 ![Swiss3](./media/swiss3.jpg "Lauterbrunnen"){: style="height:400px;width:auto"}
 
-[About Me](./about/index.md){ .md-button }
+[About Me](../about/index.md){ .md-button }
