@@ -1,7 +1,7 @@
 # Zach Sumners Website
 
 
-![Coma cluster](./media/headshot.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
+![Headshot](./media/headshot.jpg "Headshot"){align="left": style="height:150;width:150px"}
 My name is Zach Sumners, I am a Master's student in the Department of Physics at McGill University studying the application of machine learning in astrophysics. I am passionate about the search for nontrivial relationships in large datasets, and seek to employ advanced computational methods to make predictions. 
 
 This website showcases my research portfolio, extracurricular involvement, and outlines some of my computational skills.
