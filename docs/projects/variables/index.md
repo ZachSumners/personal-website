@@ -1,15 +1,17 @@
 # Automated Variable Star Analysis
 
-Differential photometry is a observational astronomy technique to understand how the brightness of one star compares to another. For example, we can quantify that star A is twice as bright as star B, even if we don't know the true brightness of either! 
+Differential photometry is an observational astronomy technique used to compare the brightness of one star relative to another. For example, we can quantify that star A is twice as bright as star B, even if the true brightness of both is unknown! 
 
-A significant challenge in analyzing astrophysical observations is the contamination of light from other sources such as clouds (notice that it's slightly brighter at night when it's overcast), light pollution, and the instrument itself. Differential photometry is useful in these cases because it subtracts out any of this local variation (even if we don't know the cause of it). In the case of star A and star B, if both of them are captured by the same telescope at the same location, light pollution might make the entire observation slightly brighter, but A is still twice as bright as B!
+A significant challenge in analyzing astrophysical observations is the contamination of light from extraneous sources such as clouds (e.g. overcast skies increase ambient brightness), light pollution, and the instrument itself. Differential photometry mitigates these issues by removing the variations that affect all sources similarly, even when their origin is unknown. In the case of stars A and B, if both are captured under identical conditions, background effects may brighten the entire image, but the relative brightness between two sources remains unchanged (A is still twice as bright as B).
 
-The Rothney Astrophysical Observatory (RAO), southwest of Calgary, Alberta, operates telescopes that specialize in wide field optical imaging (they see more of the sky at once). This makes them useful for observing variable stars or exoplanet transits because we can see more of them in the same image. In this project, I created a Python pipeline to automate the detection of variable sources in wide field imaging using differential photometry techniques. 
+The Rothney Astrophysical Observatory (RAO), located southwest of Calgary, Alberta, operates telescopes designed for wide field optical imaging (they see more of the sky at once). This makes them well-suited for studying variable stars and exoplanet transits because multiple sources can be monitored within a single image. However, the analysis to detect these objects is difficult to perform manually, and impractical at scale. In this project, I created a Python pipeline to automate the detection of variable sources in wide field imaging using differential photometry techniques.
 
-We collected time-series images of the sky
+![Variability](./media/widefield.png "Wide Field Image")
 
-With careful selection of which neighbours to use for differential photometry, we see variable behaviour with some sources in our observations. The figure below is a test case where we see inject variability into a few sources, and see if the pipeline can recognize it.
+We collected time-series images of the sky over a number of nights (one snapshot is shown above). To find the variable stars, I first reduced the data to a research-grade level using standard image processing techniques (for example, removing noise), then applied existing Python astronomy packages to extract the positions and brightness of every star in the field. I compared each star to a set of neighbouring reference stars across the time-series, then developed a flagging algorithm to identify anomalous sources whose brightness varied relative to their neighbours over the observing window. The figure below shows the results of a test case where I artificially injected variability into a few sources.
 
-![All Sky](./media/variables.png "All Sky")
+![Variability](./media/variables.png "Variability")
 
-It indeed can! The pipeline can review the variability of thousands of sources over many hours of imaging!
+The blue line shows that the brightness of two sources decreases and increases over the time-series, indicating clear variability! The pipeline correctly identified these objects among thousands of non-variable stars. 
+
+After validation, we applied the pipeline to hundreds of observations, containing millions of stars, classifying real sources according to their variable behaviour. Automated pipelines such as this enable efficient, scalable data analysis, particularly in the era of big data and large astronomical datasets.
