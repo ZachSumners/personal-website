@@ -1,7 +1,6 @@
 
-# CV
+# Resume
 
-My CV contains a detailed outline of my academic and extracurricular work.
+My resume contains a brief outline of my highlighted work experience and skills.
 
-<!-- How to embed a PDF -->
-<iframe width="100%" height="1000" src="./media/ZachSumners_CV.pdf">
+<iframe width="100%" height="1000" src="./media/ZachSumners_Resume.pdf">
